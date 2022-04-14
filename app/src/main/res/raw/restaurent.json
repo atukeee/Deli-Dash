@@ -1,0 +1,237 @@
+[
+    {
+      "name":"KFC ",
+      "address":"No 3175 Alabang–Zapote Rd.",
+      "delivery_charge": 50,
+      "image":"http://assets.stickpng.com/images/58429977a6515b1e0ad75ade.png",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Famous Bowl Fully Loaded Meal",
+          "price": 184.00,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/1PCFLBOXFAMCBO.png"
+        },
+        {
+          "name": "Chicken Cheese Burger Combo",
+          "price": 107.99,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/CBURWCHZCBO.png"
+        },
+        {
+          "name": "BBQ Bacon Snacker",
+          "price": 565.00,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/BBQBACONSW.png"
+        },
+        {
+          "name": "6-pc Bucket Meal",
+          "price": 57.00,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/SWBMEAL.png"
+        },
+        {
+          "name": "Junior Bucket Fries",
+          "price": 85.00,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/CF-BUCKET.png"
+        },
+        {
+          "name": "1-pc Chicken Meal",
+          "price": 106.25,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/A1PCCBO.png"
+        },
+        {
+          "name": "2-pc Chicken Meal",
+          "price": 187.49,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/2Piece_w_Rice_and_drink.png"
+        },
+        {
+          "name": "Large Shots",
+          "price": 120.30,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/SHOTS-L.png"
+        },
+        {
+          "name": "Coke Zero Float ",
+          "price": 37.09,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/COKEZEROFLOAT.png"
+        },
+        {
+          "name": "Chocolate Sundae",
+          "price": 30.33,
+          "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/SUNDAECHOC.png"
+        }
+      ]
+    },
+    {
+      "name":"Sinangag Express",
+      "address":"Dona Soledad Avenue",
+      "delivery_charge": 40,
+      "image":"https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.18169-9/1937117_146968491404_5308995_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHQ1ApnQ57QUPbbN_8-lx8uwnbCNFgEL6zCdsI0WAQvrOfTG4i6VNGpBHqgMrC2ltmFQsiJefQ-9cp1J2sRY0YQ&_nc_ohc=Y817btBd2_kAX85Czm7&_nc_ht=scontent.fmnl4-2.fna&oh=00_AT-aHrSkEKN0thYvJNQPakK9MaGZNvHj4EPnS9manvdvdw&oe=627A7C09",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Tapsilog",
+          "price": 99.99,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035511021981/photo/4400d02fd89a4670829f355f702f1b10_1646131533019463197.jpg"
+        },
+        {
+          "name": "Tosilog",
+          "price": 99.00,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035511019257/photo/91a47aa6e5034a44bfe817d843199486_1579233311338229768.jpeg"
+        },
+        {
+          "name": "Adsilog",
+          "price": 75.44,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035508023470/photo/54a9b98c993a4d8282e233aa251d8428_1579233308856582822.jpeg"
+        },
+        {
+          "name": "Special Pares",
+          "price": 120.00,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035507011575/photo/54655a0ca312425d924d47e665a9b5ea_1579233307654249056.jpeg"
+        },
+        {
+          "name": "Hotsilog",
+          "price": 85.49,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035510024578/photo/f114b67cc10b4144b9fadaf401b67a00_1579233310909269911.jpeg"
+        },
+        {
+          "name": "Corned Beef",
+          "price": 140.95,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035504022059/photo/7436db8525da41b58fe996ae01149ed6_1579233304740725099.jpeg"
+        },
+        {
+          "name": "SpamSilog",
+          "price": 140.59,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035505017419/photo/13b9862f697847fea66defe43083766c_1579233305272918965.jpeg"
+        },
+        {
+          "name": "Crinkles",
+          "price": 45.49,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20201020141737014576/photo/81c794a5a4e045efa141d56d38b33f2f_1603203512578578086.jpeg"
+        },
+        {
+          "name": "Bangsilog",
+          "price": 99.99,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035509016609/photo/e94e67bc423643d38487ccec39d656a6_1579233309266501141.jpeg"
+        },
+        {
+          "name": "BBQ Porksilog",
+          "price": 99.29,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035508015757/photo/cf0a5fd562d6415e892d5789decf5f7e_1579233308105031952.jpeg"
+        },
+        {
+          "name": "Chosilog",
+          "price": 75.00,
+          "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20200117035510013768/photo/85993286cab64d8f84bc14022409f5f9_1579233310208856200.jpeg"
+        }
+      ]
+    },
+  {
+    "name":"McDonald's",
+    "address":"Times Commercial Bldg",
+    "delivery_charge": 60,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"24 Hours",
+      "Monday":"24 Hours",
+      "Tuesday":"24 Hours",
+      "Wednesday":"24 Hours",
+      "Thursday":"24 Hours",
+      "Friday":"24 Hours",
+      "Saturday":"24 Hours"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 73.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 70.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 110.49,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 170.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 112.00,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 50.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Jollibee Robinsons Las Piñas",
+    "address":"GF Robinsons Place",
+    "delivery_charge": 35,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Jollibee_2011_logo.svg/1200px-Jollibee_2011_logo.svg.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 7:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Burger Steak Family Savers",
+        "price": 99.00,
+        "url": "https://cdn.shopify.com/s/files/1/0580/3245/5858/products/1PcChickenjoy_Spaghetti_360x.jpg?v=1635459465"
+      },
+      {
+        "name": "1-pc Burger Steak w/ 3pcs Shanghai",
+        "price": 109.0,
+        "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20210310034544651141/photo/823f248a38f24601a8242c6602860bf5_1633424873497219168.jpg"
+      },
+      {
+        "name": "Jolly Spaghetti Family Pan",
+        "price": 200.49,
+        "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20210310032144049042/photo/e86ee9cab4f748d9ba1504d43b016c84_1615346504871053185.jpg"
+      },
+      {
+        "name": "Cheesy Yumburger",
+        "price": 49.99,
+        "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20210310032135039513/photo/5841b045fd43401c91f2fe98a96747f0_1615346495712180466.jpg"
+      },
+      {
+        "name": "Double Bacon Cheesy Yumburger ",
+        "price": 170.09,
+        "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20210310032141033042/photo/0fede6bc65584d4b803b3ebae3e6761d_1615346501812475099.jpg"
+      },
+      {
+        "name": "Amazing Aloha Yumburger",
+        "price": 185.49,
+        "url": "https://d1sag4ddilekf6.azureedge.net/compressed/items/PHITE20210310032137023976/photo/8aee92d90c864c3eba37b2f4bfcd7979_1615346497454207641.jpg"
+      }
+    ]
+  }
+]
