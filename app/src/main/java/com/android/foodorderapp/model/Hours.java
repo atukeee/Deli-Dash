@@ -72,6 +72,7 @@ public class Hours {
         Saturday = saturday;
     }
 
+    //It is enable to access the hours of the day(so the hours depend on the date)
     public String getTodaysHours() {
         Calendar calendar = Calendar.getInstance();
         Date date  = calendar.getTime();

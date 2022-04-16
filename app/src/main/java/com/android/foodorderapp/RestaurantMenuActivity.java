@@ -127,7 +127,6 @@ public class RestaurantMenuActivity extends AppCompatActivity implements MenuLis
         super.onActivityResult(requestCode, resultCode, data);
 
         if(requestCode == 1000 && resultCode == Activity.RESULT_OK) {
-            //
             finish();
         }
     }

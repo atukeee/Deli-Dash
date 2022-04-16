@@ -27,11 +27,14 @@ public class SplashActivity extends AppCompatActivity {
         //Hooks
         image = findViewById(R.id.image);
 
+        //setting the animation
         image.setAnimation(leftAnim);
 
+        //to hide the action bar on top
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
 
+        //It is to run after the specified amount of time elapses
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {

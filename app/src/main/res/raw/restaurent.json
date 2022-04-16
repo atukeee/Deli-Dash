@@ -27,12 +27,12 @@
         },
         {
           "name": "BBQ Bacon Snacker",
-          "price": 565.00,
+          "price": 57.00,
           "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/BBQBACONSW.png"
         },
         {
           "name": "6-pc Bucket Meal",
-          "price": 57.00,
+          "price": 565.00,
           "url": "https://www.kfc.com.ph/Content/OnlineOrderingImages/Menu/Items/SWBMEAL.png"
         },
         {
@@ -188,7 +188,7 @@
     ]
   },
   {
-    "name":"Jollibee Robinsons Las Piñas",
+    "name":"Jollibee",
     "address":"GF Robinsons Place",
     "delivery_charge": 35,
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Jollibee_2011_logo.svg/1200px-Jollibee_2011_logo.svg.png",
